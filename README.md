@@ -2,6 +2,8 @@
 
 It is array of hashes matcher.
 
+[![Build Status](https://travis-ci.org/winebarrel/rspec-match_table.svg?branch=master)](https://travis-ci.org/winebarrel/rspec-match_table)
+
 ## Installation
 
 Add this line to your application's Gemfile:
