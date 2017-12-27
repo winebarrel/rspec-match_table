@@ -2,6 +2,7 @@
 
 It is array of hashes matcher.
 
+[![Gem Version](https://badge.fury.io/rb/rspec-match_table.svg)](https://badge.fury.io/rb/rspec-match_table)
 [![Build Status](https://travis-ci.org/winebarrel/rspec-match_table.svg?branch=master)](https://travis-ci.org/winebarrel/rspec-match_table)
 
 ## Installation
