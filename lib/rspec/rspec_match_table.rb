@@ -1,7 +1,7 @@
 module RSpecMatchTable
   def check_type(obj)
-    unless obj.is_a?(Array) and obj.all? {|i| i.is_a?(Hash) }
-      raise TypeError, "wrong type #{obj.inspect} (expected Array<Hash>)"
+    unless obj.is_a?(Array)
+      raise TypeError, "wrong type #{obj.inspect} (expected Array)"
     end
   end
   module_function :check_type
